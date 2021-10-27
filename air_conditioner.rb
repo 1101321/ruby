@@ -16,4 +16,6 @@ elsif temperature_diff >= 10 then
   require_time = 60
 end
 
+
+
 p require_time
