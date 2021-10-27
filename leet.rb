@@ -1,5 +1,6 @@
 input_line = gets
 strings = input_line.to_s.split('')
+
 convert = []
 strings.each do |chara|
   case chara
